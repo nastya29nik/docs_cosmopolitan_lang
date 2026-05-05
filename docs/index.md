@@ -31,8 +31,8 @@
 
 1.  **Склонируйте репозиторий и соберите проект:**
     ```bash
-    git clone <адрес_вашего_репозитория>
-    cd <имя_папки_проекта>
+    git clone https://github.com/MAILabs-Edu-2026/funcpro-coursework-cosmopolitan.git
+    cd funcpro-coursework-cosmopolitan
     dotnet build
     ```
 
